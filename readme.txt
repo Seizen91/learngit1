@@ -7,3 +7,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 
 Creating a new branch by myself.
+I need to handle a bug when i am working.
